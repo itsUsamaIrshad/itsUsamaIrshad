@@ -4,19 +4,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsusamairshad&label=Profile%20views&color=0e75b6&style=flat" alt="itsusamairshad" /> </p>
 
-- 🔭 I’m currently working on **Medical Appointment**
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **TypeScript**
 
-- 👯 I’m looking to collaborate on **Frontend Project**
+- 👯 I’m looking to collaborate on **Full Stack Project**
 
-- 🤝 I’m looking for help with **Frontend Project**
+- 🤝 I’m looking for help with **Full Stack Project**
 
 - 👨‍💻 All of my projects are available at [itsUsamaIrshad](itsUsamaIrshad)
 
 - 📝 I regularly write articles on [Blog Website](Blog Website)
 
-- 💬 Ask me about **Software Engineer, React Frontend Developer Expert with 2+ Years, Freelancer , WordPress Developer Specialist**
+- 💬 Ask me about **Software Engineer, Full Stack Developer ,React Frontend Developer Expert with 2+ Years, Freelancer ,WordPress Developer Specialist**
 
 - 📫 How to reach me **itsusamairshad@gmail.com**
 
